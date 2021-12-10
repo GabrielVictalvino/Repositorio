@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+
+body {
+    background-color: #24dad0;
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+}
+
+.crono {
+    width: 700px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 2,6em;
+    text-transform: uppercase;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+
+button {
+    background-color: #26e9df;
+    color: white;
+    border: solid 1px white;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 1.2em;
+    padding: 18px 10px;
+    width: 170px;
+    margin: 10px;
+    outline: none;
+    }
+button:hover {
+    background-color: #259e98;
+    border: solid 1px white;
+}
